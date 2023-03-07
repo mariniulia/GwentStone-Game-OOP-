@@ -56,5 +56,3 @@ git
 17. test17_multiple_games_invalid - 6p
 18. test18_big_game - 10p
 
-
-<div align="center"><img src="https://tenor.com/view/homework-time-gif-24854817.gif" width="500px"></div>
